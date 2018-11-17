@@ -13,23 +13,22 @@ I have validated the methods on standard Flickr8k and MSCOCO dataset. They achie
 ###### Normal CNN-RNN architecture
 
 - For MSCOCO dataset
-BLEU-1 : 0.705
-BLEU-4 : 0.265
+  - BLEU-1 : 0.705
+  - BLEU-4 : 0.265
 
 - For Flickr8k dataset
-BLEU-1 : 0.630
-BLEU-4 : 0.177
+  - BLEU-1 : 0.630
+  - BLEU-4 : 0.177
 
 ###### Visual Attention architecture
 
 - For MSCOCO dataset
-BLEU-1 : 0.731
-BLEU-4 : 0.320
+  - BLEU-1 : 0.731
+  - BLEU-4 : 0.320
 
 - For Flickr8k dataset
-
-BLEU-1 : 0.655
-BLEU-4 : 0.218
+  - BLEU-1 : 0.655
+  - BLEU-4 : 0.218
 
 ### TO DO
 - Add attention visualization utility 
